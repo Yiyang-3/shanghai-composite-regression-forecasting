@@ -2,8 +2,6 @@
 
 > An academic forecasting project comparing linear, regularized, nonlinear and time-series regression methods using Shanghai Composite Index data and technical indicators.
 
-![Model comparison](assets/model_comparison.png)
-
 ## At a glance
 
 | Item | Project scope |
