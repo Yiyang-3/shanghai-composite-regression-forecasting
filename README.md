@@ -31,14 +31,6 @@ The complete comparison is available in [`outputs/model_metrics.csv`](outputs/mo
 
 ![ARX fitted values against actual values](assets/arx_fit.png)
 
-## Paper and presentation
-
-The repository includes the complete paper and the project presentation. Student identification numbers have been removed from the public versions; the analytical content is unchanged.
-
-| File | Description |
-|---|---|
-| [`full_paper.pdf`](documents/full_paper.pdf) | Full paper in PDF format |
-| [`presentation.pptx`](documents/presentation.pptx) | Project presentation slides |
 
 ## Repository structure
 
