@@ -8,16 +8,6 @@ This project studies how different regression families model the Shanghai Compos
 
 The original results suggest that linear models provided strong short-horizon fits, cubic polynomial regression captured additional nonlinearity, and the ARX specification achieved the lowest reported MSE and highest reported R² when exogenous technical indicators were included.
 
-## Analysis workflow
-
-```mermaid
-flowchart LR
-    A[Yahoo Finance data] --> B[Technical indicators]
-    B --> C[Correlation review]
-    C --> D[Model comparison]
-    D --> E[MSE and R²]
-```
-
 ## Feature review
 
 Correlation analysis was used to identify overlapping signals and guide feature reduction before model fitting.
