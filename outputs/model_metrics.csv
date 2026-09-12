@@ -1,0 +1,12 @@
+model,mse,r2
+Linear Regression,3907.9467,0.963187
+Lasso Regression,3906.7945,0.963198
+Ridge Regression,3908.1172,0.963186
+Polynomial Regression (degree 2),3800.6433,0.964198
+Polynomial Regression (degree 3),3147.9057,0.970347
+Polynomial Regression (degree 4),3411.8355,0.967861
+Regression Spline,3962.1532,0.962600
+Smoothing Spline,3895.1454,0.963308
+Generalized Additive Model,4011.1769,0.962200
+Autoregressive Model,109211.1642,0.040100
+ARX Model,2541.4288,0.977663
