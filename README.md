@@ -2,19 +2,6 @@
 
 > An academic forecasting project comparing linear, regularized, nonlinear and time-series regression methods using Shanghai Composite Index data and technical indicators.
 
-## At a glance
-
-| Item | Project scope |
-|---|---|
-| Role | Researcher |
-| Period | May 2025 – Jun 2025 |
-| Institution | Shanghai Jiao Tong University |
-| Supervisor | Prof. TANG Zhuodong |
-| Data | Shanghai Composite Index, 5 Jan 2015 – 7 May 2025 |
-| Methods | Linear, Lasso, Ridge, polynomial, spline, AR and ARX |
-| Evaluation | 80/20 split; MSE and R² in the original study |
-| Best reported result | ARX: MSE 2,541.43; R² 0.9777 |
-
 ## Project overview
 
 This project studies how different regression families model the Shanghai Composite Index. Daily market data were combined with moving-average, RSI, MACD and volume features, standardized and examined for multicollinearity. The analysis then compared interpretable linear baselines, regularized models, nonlinear polynomial and spline models, and autoregressive specifications.
